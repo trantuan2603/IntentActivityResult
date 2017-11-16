@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentActivityResult</string>
+    <string name="input_typer_number_a">input typer number A</string>
+    <string name="input_typer_number_b">input typer number B</string>
+    <string name="number_b">number B</string>
+    <string name="number_a">number A</string>
+    <string name="replay">Replay</string>
+</resources>
